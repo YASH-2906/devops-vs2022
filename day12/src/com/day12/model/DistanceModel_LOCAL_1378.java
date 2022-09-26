@@ -1,9 +1,5 @@
 package com.day12.model;
-<<<<<<< HEAD
 // user 11 modified
-=======
-// user 12 modified
->>>>>>> f1b5c2c1f30199b137f425eb41bcca2f8ef17584
 // modified in feature branch
 // modified by feature one
 public class DistanceModel {
