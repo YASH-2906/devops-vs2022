@@ -1,5 +1,5 @@
 package com.day12.model;
-
+// modified in feature branch
 public class DistanceModel {
 	String name;
 	String city;

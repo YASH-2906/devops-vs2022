@@ -49,7 +49,7 @@ public class DistanceModel {
 	{
 		StringBuilder build = new StringBuilder();
 		int cost=0;
-		try(BufferedReader buffer = new BufferedReader(new FileReader("C:/Users/YASH CHAUDHARI/Desktop/Traning/Day 12/Day12Ass/src/controller/costs.json")))
+		try(BufferedReader buffer = new BufferedReader(new FileReader("C:/Users/YASH CHAUDHARI/Desktop/Traning/Day 12/day12-assignment-YASH-2906/day12/src/costs.json")))
 		{
 			String str;
 			while((str=buffer.readLine()) !=null)
